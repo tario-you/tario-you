@@ -1,8 +1,8 @@
 ### Hi! I'm Tario :)
-I have Python experience from working on a variety of projects you can find here!
-I have C# and Unity experience from my interest in game development
-I have achieved USACO Silver with C++
-I am interested in learning more about AI and its applications such as computer vision 🔭
+- I have Python experience from working on a variety of projects you can find here!
+- I have C# and Unity experience from my interest in game development
+- I have achieved USACO Silver with C++
+- I am interested in learning more about AI and its applications such as computer vision 🔭
 
 <!--
 **tario-you/tario-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
