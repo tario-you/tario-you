@@ -1,6 +1,6 @@
 # Tario You
 
-I build production AI + full-stack systems with measurable wins.
+I build production AI + full-stack systems with measurable wins.  
 Seattle · UW CSE · open to Summer ’26 · [Email](mailto:tarioy@uw.edu) · [GitHub](https://github.com/tario-you) · [LinkedIn](https://linkedin.com/in/tario-you)
 
 **Highlights**
