@@ -8,7 +8,7 @@ Seattle · UW CSE · open to Summer ’26 · [Email](mailto:tarioy@uw.edu) · [G
 * **SOLID** — LLM + optimizer portfolio framework (accepted to AAAI & NeurIPS).
   [Repo](https://github.com/tario-you/solid)
 * **learnyourself.ai** — personalized retrieval; SSR + vector DB; sub-200 ms target.
-  [Demo](http://learnyourself.ai/)
+  [Website](http://learnyourself.ai/)
 * **unnamed** - personalized career advice; rag, context layer, agentic chatbot (wip)
   [Repo](https://github.com/tario-you/uw-scrape)
 
