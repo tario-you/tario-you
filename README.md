@@ -1,15 +1,3 @@
-# Tario You
+https://linkedin.com/in/tario-you
 
-I build production AI + full-stack systems with measurable wins.  
-Seattle · UW CSE · open to Summer ’26 · [Email](mailto:tarioy@uw.edu) · [GitHub](https://github.com/tario-you) · [LinkedIn](https://linkedin.com/in/tario-you)
-
-**Highlights**
-
-* **SOLID** — LLM + optimizer portfolio framework (accepted to AAAI & NeurIPS).
-  [Repo](https://github.com/tario-you/solid)
-* **learnyourself.ai** — personalized retrieval; SSR + vector DB; sub-200 ms target.
-  [Website](http://learnyourself.ai/)
-* **unnamed** - personalized career advice; rag, context layer, agentic chatbot (wip)
-  [Repo](https://github.com/tario-you/uw-scrape)
-
-**Stack**: Python, PyTorch, TypeScript/Node, Next.js, Postgres, Docker, GitHub Actions
+emailto:tarioy@uw.edu
