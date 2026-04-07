@@ -1,4 +1,4 @@
-working on cracking cua
+https://moonshot.computer/
 
 https://linkedin.com/in/tario-you
 
